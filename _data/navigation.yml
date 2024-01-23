@@ -3,6 +3,8 @@ main:
     url: /cfp/
   - title: "Committee"
     url: /committee/
+  - title: "Program"
+    url: /program/
   - title: "History"
     url: /history/
   - title: "Organizers"

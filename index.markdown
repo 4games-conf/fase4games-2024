@@ -3,9 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24)"
 ---
 
-> Co-located with [FSE'24 conference](https://conf.researchr.org/home/fse-2024)
+<!-- # Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) -->
+
+<!-- {% include figure image_path="/assets/images/joystick-hand.jpg" %} -->
+
+> Co-located with [ACM International Conference on the Foundations of Software Engineering (FSE'2024)](https://conf.researchr.org/home/fse-2024)
+
+> Porto de Galinhas, Brazil
 
 # Theme
 The Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) has for goal to share innovative research contributions in software-engineering methods that address the challenges currently facing game development (entertainment games, serious games, and gamified applications).
@@ -16,23 +23,15 @@ FaSE4Games workshop will gather the community (game researchers, game developers
 # Topics
 Such challenges include, but are not limited to:
 
-**Artificial intelligence for software engineering** applied to games.
-
-**Testing and debugging** applied to games.
-
-**Empirical software engineering** applied to games.
-
-**Model-driven engineering** applied to games.
-
-**Performance engineering** applied to games.
-
-**Program analysis, comprehension, repair, or synthesis** applied to games.
-
-**Requirements engineering** applied to games.
-
-**Software architecture** applied to games.
-
-**Software processes** applied to games.
+* **Artificial intelligence for software engineering** applied to games.
+* **Testing and debugging** applied to games.
+* **Empirical software engineering** applied to games.
+* **Model-driven engineering** applied to games.
+* **Performance engineering** applied to games.
+* **Program analysis, comprehension, repair, or synthesis** applied to games.
+* **Requirements engineering** applied to games.
+* **Software architecture** applied to games.
+* **Software processes** applied to games.
 
 <!-- # Motivation
 The goal and topics of the workshop make the proposed workshop very well suited to become a co-located **FSE'24 conference event**. It strongly aligns with the topics of the FSE conference, e.g., Debugging and fault localisation, and inclusion of researchers, practitioners, and educators. -->
@@ -52,9 +51,9 @@ FaSE4Games'24 provides a forum to explore the challenges that crosscut the softw
 
 # Paper Selection
 
-The program committee will accept four to **six long papers** and **six to eight short papers**. 
+The program committee will accept **four to six long papers** and **six to eight short papers**. 
 
-The page limits are eight and five pages for long and short papers, respectively. For each accepted paper, we will require at least one author to register, attend, and present.
+The page limits are **5 to 8 pages** for short and long papers, respectively. For each accepted paper, we will require at least one author to register, attend, and present.
 
 # Proceedings
 

@@ -31,9 +31,15 @@ Submissions are accepted as follows:
 * Long research papers (8 pages)
 * Short research papers (5 pages)
 
-Submissions must follow the  [FSE 2024 submission instructions](?) using the *ACM Proceedings Template*. Note that the names and ordering of authors in the camera ready version cannot be modified from the ones in the submitted version.
+Submissions must follow the  [FSE 2024 research track submission instructions](https://2024.esec-fse.org/track/fse-2024-research-papers#how-to-submit) using the *ACM Proceedings Template*. Note that the names and ordering of authors in the camera ready version cannot be modified from the ones in the submitted version.
 
-ASE4Games 2022 requires that at least one author on each accepted paper will register for, and attend, the ASE4Games 2022 workshop, and give a presentation on the results.
+<!-- At the time of submission, each paper should have no more than 18 pages for all text and figures, plus 4 pages for references, using the following templates: Latex or Word (Mac) or Word (Windows).  -->
+
+Authors using LaTeX should use the `sample-acmsmall-conf.tex` file (found in the samples folder of the acmart package) with the `acmsmall` option. We also strongly encourage the use of the review, screen, and anonymous options as well. In sum, you want to use: `\documentclass[acmsmall,screen,review,anonymous]{acmart}`. 
+
+<!-- Papers may be submitted using numeric citations, but final versions of accepted papers must use the author-year format for citations. It is a single-column page layout. Submissions that do not comply with the above instructions will be desk rejected without review.  -->
+
+FaSE4Games'2024 requires that at least one author on each accepted paper will register for, and attend, the workshop, and give a presentation on the results.
 
 **Papers submission is via EasyChair: TBA**
  <!-- [https://easychair.org/my/conference?conf=ase4games2022.](https://easychair.org/my/conference?conf=ase4games2022)** -->

@@ -3,15 +3,16 @@ title: "Program"
 permalink: /program/
 ---
 
-The event will be **?** on **TBA**, 2024.
+TBA
 
-The event will be live on Youtube at TBA.
+<!-- The event will be **?** on **TBA**, 2024. -->
+
+<!-- The event will be live on Youtube at TBA. -->
 
 <!-- The timezone is America/Toronto **?**. -->
 
----
 
-## Morning Sessions
+<!-- ## Morning Sessions
 
 * Welcome and Introductions
 * Keynote Speaker (Academia)
@@ -26,5 +27,5 @@ The event will be live on Youtube at TBA.
 * Break
 * Session 4: Presentations and Discussions
 * Roundtable
-* Call to Action and Wrap-up
+* Call to Action and Wrap-up -->
 
