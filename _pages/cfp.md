@@ -46,10 +46,14 @@ FaSE4Games'2024 requires that at least one author on each accepted paper will re
 
 ## Dates
 
-Submission deadline: **TBA**
+Submission deadline: **Mar 27th, 2024**
 
-Notification: **TBA**
+Notification: **April 26th, 2024**
 
-Camera ready: **TBA**
+Camera ready: **May 15th, 2024**
 
-Workshop date: **TBA**
+Workshop date: **July 14th, 2024**
+
+<!-- Workshop papers submission (suggested period) Feb 8th - Mar 29th, 2024
+    Workshop papers notification April 26th, 2024
+    Workshop papers camera-ready (hard) May 17th, 2024 -->
