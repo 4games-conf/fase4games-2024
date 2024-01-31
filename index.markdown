@@ -6,13 +6,11 @@ layout: home
 title: "Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24)"
 ---
 
-<!-- # Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) -->
-
-<!-- {% include figure image_path="/assets/images/joystick-hand.jpg" %} -->
-
 > Co-located with [ACM International Conference on the Foundations of Software Engineering (FSE'2024)](https://conf.researchr.org/home/fse-2024)
 
 > Porto de Galinhas, Brazil
+
+> July 14th, 2024
 
 # Theme
 The Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) has for goal to share innovative research contributions in software-engineering methods that address the challenges currently facing game development (entertainment games, serious games, and gamified applications).
@@ -32,9 +30,6 @@ Such challenges include, but are not limited to:
 * **Requirements engineering** applied to games.
 * **Software architecture** applied to games.
 * **Software processes** applied to games.
-
-<!-- # Motivation
-The goal and topics of the workshop make the proposed workshop very well suited to become a co-located **FSE'24 conference event**. It strongly aligns with the topics of the FSE conference, e.g., Debugging and fault localisation, and inclusion of researchers, practitioners, and educators. -->
 
 # Audience
 The targeted audience includes people from the international community in academia or industry with an interest in game development methods from a software engineering perspective. 
