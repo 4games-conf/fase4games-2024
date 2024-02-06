@@ -2,21 +2,21 @@
 title: "Organizers"
 permalink: /organizers/
 yann_row:
-  - image_path: /assets/images/yann.jpg
+  - image_path: /assets/images/pics/yann.jpg
     title: "Yann-Gaël Guéhéneuc"
     excerpt: "Yann-Gaël Guéhéneuc has been a full professor at the Department of Computer Science and Software Engineering of Concordia University since 2017."
     url: "http://www.ptidej.net/Members/guehenyg"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/fabio.jpg
+  - image_path: /assets/images/pics/fabio.jpg
     title: "Fabio Petrillo"
     excerpt: "Fabio Petrillo serves as an associate professor in the Department of Software Engineering and IT at École de Technologie Supérieure in Montreal, Canada."
     url: "https://fabiopetrillo.com/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/cristiano.jpg
+  - image_path: /assets/images/pics/cristiano.jpg
     title: "Cristiano Politowski"
     excerpt: "Cristiano Politowski is a Postdoctoral Researcher at Université de Montréal, where he is researching machine learning applied to software engineering, in particular game testing."
     url: "https://cpoli.live"
