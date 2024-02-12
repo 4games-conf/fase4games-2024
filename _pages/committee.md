@@ -80,6 +80,11 @@ feature_row:
   excerpt: "University of Canterbury"
   url: "https://www.csse.canterbury.ac.nz/people/postgrads/timothy.mckenzie"
 
+- image_path: /assets/images/pics/clark.jpg
+  title: "Clark Verbrugge"
+  excerpt: "McGill University"
+  url: "https://www.sable.mcgill.ca/~clump/"
+
 - image_path: /assets/images/pics/victor.jpg
   title: "Victor Travassos Sarinho"
   excerpt: "Universidade Estadual de Feira de Santana"
