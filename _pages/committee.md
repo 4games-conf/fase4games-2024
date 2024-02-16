@@ -90,6 +90,12 @@ feature_row:
   excerpt: "Universidade Estadual de Feira de Santana"
   url: "https://pgcc.uefs.br/sobre/docentes/victor"
 
+- image_path: /assets/images/pics/ciprian.jpg
+  title: "Ciprian Paduraru"
+  excerpt: "University Of Bucharest"
+  url: "https://scholar.google.com/citations?user=EaAekU4AAAAJ&hl=en"
+
+
 ---
 
 {% include feature_row  type="center" %}

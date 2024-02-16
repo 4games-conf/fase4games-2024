@@ -26,12 +26,20 @@ Game developers share a common community of interest: how to best engineer game 
 All submissions will be refereed by three members of the program committee. Accepted submissions will be published in the conference's electronic proceedings and at the ACM Digital Library.
 
 Submissions are accepted as follows:
-* Long research papers (8 pages)
-* Short research papers (5 pages)
+* Long research papers: **8 pages** + 2 for references
+* Short research papers: **5 pages** + 2 for references
 
-Submissions must follow the  [FSE 2024 research track submission instructions](https://2024.esec-fse.org/track/fse-2024-research-papers#how-to-submit) using the *ACM Proceedings Template*. Note that the names and ordering of authors in the camera ready version cannot be modified from the ones in the submitted version.
+Submissions must follow the  [FSE 2024 research track submission instructions](https://2024.esec-fse.org/track/fse-2024-how-to-submit) using the *ACM Proceedings Template*:
+ <!-- Note that the names and ordering of authors in the camera ready version cannot be modified from the ones in the submitted version. -->
 
-Authors using LaTeX should use the `sample-acmsmall-conf.tex` file (found in the samples folder of the acmart package) with the `acmsmall` option. We also strongly encourage the use of the review, screen, and anonymous options as well. In sum, you want to use: `\documentclass[acmsmall,screen,review,anonymous]{acmart}`. 
+`\documentclass[sigconf,screen,review,anonymous]{acmart}`
+
+Also add:
+
+`\acmBooktitle{Companion Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE '24), July 15--19, 2024, Porto de Galinhas, Brazil}`
+
+
+<!-- Authors using LaTeX should use the `sample-acmsmall-conf.tex` file (found in the samples folder of the acmart package) with the `acmsmall` option. We also strongly encourage the use of the review, screen, and anonymous options as well. In sum, you want to use: `\documentclass[acmsmall,screen,review,anonymous]{acmart}`.  -->
 
 FaSE4Games’2024 requires that at least one author on each accepted paper will register to, and attend the workshop, and give a presentation on the results.
 
