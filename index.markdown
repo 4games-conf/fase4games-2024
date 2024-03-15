@@ -10,7 +10,7 @@ title: "Foundations of Applied Software Engineering for Games workshop (FaSE4Gam
 
 > Porto de Galinhas, Brazil
 
-> July 14th, 2024
+> July 16th, 2024
 
 # Theme
 The Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) has for goal to share innovative research contributions in software-engineering methods that address the challenges currently facing game development (entertainment games, serious games, and gamified applications).

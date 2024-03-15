@@ -30,7 +30,6 @@ Submissions are accepted as follows:
 * Short research papers: **5 pages** + 2 for references
 
 Submissions must follow the  [FSE 2024 research track submission instructions](https://2024.esec-fse.org/track/fse-2024-how-to-submit) using the *ACM Proceedings Template*:
- <!-- Note that the names and ordering of authors in the camera ready version cannot be modified from the ones in the submitted version. -->
 
 `\documentclass[sigconf,screen,review,anonymous]{acmart}`
 
@@ -38,8 +37,6 @@ Also add:
 
 `\acmBooktitle{Companion Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE '24), July 15--19, 2024, Porto de Galinhas, Brazil}`
 
-
-<!-- Authors using LaTeX should use the `sample-acmsmall-conf.tex` file (found in the samples folder of the acmart package) with the `acmsmall` option. We also strongly encourage the use of the review, screen, and anonymous options as well. In sum, you want to use: `\documentclass[acmsmall,screen,review,anonymous]{acmart}`.  -->
 
 FaSE4Games’2024 requires that at least one author on each accepted paper will register to, and attend the workshop, and give a presentation on the results.
 
@@ -53,7 +50,7 @@ Notification: **April 26th, 2024**
 
 Camera ready: **May 15th, 2024**
 
-Workshop date: **July 14th, 2024**
+Workshop date: **July 16th, 2024**
 
 ## Contact
 
