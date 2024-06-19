@@ -19,7 +19,7 @@ Time zone in Porto de Galinhas, Brazil (GMT-3) .
 * (11:00-11:45) Stefano Campanella, Emanuela Guglielmi, Rocco Oliveto, Gabriele Bavota and Simone Scalabrino. **Towards the Automatic Replication of Gameplays to Support Game Debugging**
 * (14:45-15:30) Xiaozhou Li, Valentina Lenarduzzi and Davide Taibi. **A Data-driven Analysis of Player Personalities for Different Game Genres**
 
-## Session C: LEVEL 3 - KEYNOTE
+## Session C: BOSS FIGHT - KEYNOTE
 > 14:00-15:30 
 
 Prof. Rodrigo Santos

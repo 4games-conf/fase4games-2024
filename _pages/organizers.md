@@ -18,7 +18,7 @@ yann_row:
 
   - image_path: /assets/images/pics/cristiano.jpg
     title: "Cristiano Politowski"
-    excerpt: "Cristiano Politowski is a Postdoctoral Researcher at Université de Montréal, where he is researching machine learning applied to software engineering, in particular game testing."
+    excerpt: "Cristiano Politowski is an assistant professor at Ontario Tech University, Canada, researching machine learning applied to software engineering, particularly game testing."
     url: "https://cpoli.live"
     btn_label: "Read More"
     btn_class: "btn--inverse"
