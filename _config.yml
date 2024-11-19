@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Co-located with FSE'24" # site tagline that appears below site title in masthead
 name                     : "FaSE4Games"
 description              : "Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24)"
-url                      : "https://fase4games.quest/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://4games-conf.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fase4games-2024" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/kid-dev.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
